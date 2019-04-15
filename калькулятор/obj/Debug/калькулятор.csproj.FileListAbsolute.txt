@@ -1,0 +1,44 @@
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\Дарина\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.Form2.resources
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.Form3.resources
+C:\Users\Дамир Хакер\Desktop\калькулятор\калькулятор\obj\Debug\калькулятор.Form4.resources
+C:\Users\Дарина\Desktop\утилиты\калькулятор\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+C:\Users\Дарина\Desktop\утилиты\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\Дарина\Desktop\утилиты\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\bin\Debug\калькулятор.exe.manifest
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\bin\Debug\калькулятор.application
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.Form1.resources
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.Form2.resources
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.Form3.resources
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.Form4.resources
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.TrustInfo.xml
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.exe.manifest
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.application
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\Дамир\Documents\GitHub\-\калькулятор\obj\Debug\калькулятор.pdb
